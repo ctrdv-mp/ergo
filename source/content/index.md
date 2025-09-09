@@ -1,1 +1,1 @@
-pouet
+ceci est une [[pomme]]
