@@ -1,1 +1,12 @@
-{}
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "mermaid",
+    "pouet_mermaid",
+    "S - Checkboxes",
+    "S - Kanban"
+  ],
+  "cssTheme": "Atom",
+  "theme": "moonstone"
+}

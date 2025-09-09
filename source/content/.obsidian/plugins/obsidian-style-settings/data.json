@@ -1,0 +1,18 @@
+{
+  "checkbox@@check-color": false,
+  "checkbox@@check-bg": false,
+  "ITS@@radius-s": 0,
+  "ITS@@breadcrumbs-block": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@notion": true,
+  "ITS@@its-d": false,
+  "ITS@@accent-color": false,
+  "ITS@@s-d": false,
+  "ITS@@select": "none",
+  "ITS@@mini": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz"
+}

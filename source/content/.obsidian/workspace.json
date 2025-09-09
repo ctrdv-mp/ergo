@@ -1,62 +1,108 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "f1c816f674b5a1ab",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "c7e60f9bee749fba",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "376e74aef7c4aa49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "_initum.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "_initum"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "ca73571bbfd31d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "_organisation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "_organisation"
+            }
+          },
+          {
+            "id": "469cb26f3d35f3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_travaux en cours.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_travaux en cours"
+            }
+          },
+          {
+            "id": "24392341101bdcb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_tas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_tas"
+            }
+          },
+          {
+            "id": "beb4c468ef78c374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "véhicule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "véhicule"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "1331461d34712b4b",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "20ed513b711f9063",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "9d5b06593476790b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "1acc347c386676e7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,15 +113,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "1aeacacc1e5a838a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
             }
           }
         ]
@@ -85,20 +135,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "4f3f3c5306ca6d65",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "a88ca2f98df7e639",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "718f3558ed494183",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "_int main void.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,65 +156,118 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour _int main void"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "71c613cbf0537ec6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "_int main void.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de _int main void"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "73cc99074b9ba655",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "60a8aa67c73e1bbf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "_int main void.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de _int main void"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 288.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "random-note:Ouvre une note au hasard": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "theme-toggle:Toggle to dark mode": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "376e74aef7c4aa49",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "_organisation.md",
+    "_initum.md",
+    "véhicule.md",
+    "_travaux en cours.md",
+    "_tas.md",
+    "brouillon.md",
+    "trop plein du bassin.md",
+    "quotidiennes/2025-09-08.md",
+    "tâches.md",
+    "électronique.md",
+    "quotidiennes/2025-09-05.md",
+    "place vaigan.md",
+    "travaux en cours.md",
+    "Tasks Plugin - Review and check your Statuses 2025-09-08 05-55-09.md",
+    "travaux à programmer.md",
+    "Untitled Kanban.md",
+    "réparation.md",
+    "_int main void.canvas",
+    "Excalidraw/Drawing 2025-09-08 04.55.09.excalidraw.md",
+    "Excalidraw",
+    "musique.md",
+    "task.md",
+    "quotidiennes/2025-09-06.md",
+    "quotidiennes/2025-09-07.md",
+    "bricolage.md",
+    "dosage béton.md",
+    "quotidiennes",
+    "récupérer des pierres.md",
+    "_int main void.sync-conflict-20250828-200939-MCOFRLL.md",
+    "bdd.base",
+    "images/Pasted image 20241208102512.png",
+    "Pasted image 20250626230110.png",
+    "Pasted image 20250105120119.png",
+    "Pasted image 20250105120257.png",
+    "Pasted image 20250105120044.png",
+    "Pasted image 20250105115847.png",
+    "condensateur_scie.jpeg",
+    "images/Pasted image 20241208145301.png",
+    "images/Pasted image 20241208144813.png",
+    "images/Pasted image 20241208144328.png",
+    "kotidi1.canvas"
   ]
 }
